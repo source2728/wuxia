@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: NPC_ximenchuifeng_Data
+  m_EditorClassIdentifier: 
+  dataName: NPC_ximenchuifeng
+  dragonBonesJSON: {fileID: 4900000, guid: 1e381cba31476e64ebf0124cabb45b52, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 9c2c307758ffb854a9cf4c6a32bbab7f, type: 3}
+    texture: {fileID: 2800000, guid: 8a1f94c3e54f6e64e8036087ba9ff5c4, type: 3}
+    material: {fileID: 2100000, guid: 808a34462a330a545a855af628cd30e2, type: 2}
+    uiMaterial: {fileID: 0}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: NPC_yegucun_Data
+  m_EditorClassIdentifier: 
+  dataName: NPC_yegucun
+  dragonBonesJSON: {fileID: 4900000, guid: be164944a12651b459e81379f74db341, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 0fe39dfdd1c743d408f05d408b0a3904, type: 3}
+    texture: {fileID: 2800000, guid: 200aea60365746144a79d83a849b35fd, type: 3}
+    material: {fileID: 2100000, guid: 24db90e27b6b75f4880cd962dc70f0b5, type: 2}
+    uiMaterial: {fileID: 0}

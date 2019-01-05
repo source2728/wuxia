@@ -1,0 +1,10 @@
+.vs
+Library
+obj
+Temp
+*.csproj
+Packages
+*.sln
+*.user
+StreamingAssets.meta
+StreamingAssets
